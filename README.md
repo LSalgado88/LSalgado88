@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**LSalgado88/LSalgado88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who Am I? 👋
 
-Here are some ideas to get you started:
+Hi! I’m Luis Salgado a Graduate Student in Computer Science at Prairie View A&M University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A bit about me:
+- 🔭 I’m currently working on Texas A&M Transportation Institute aka TTI.
+- 🌱 I love learning about new technologies, frameworks, programming languages, security things etc.
+- ⚡ Fun fact: I love to play paddel.
+
+## Technologies and Tools
+
+- **Languages:** JavaScript, Java, Python, BeanShell.
+- **Frameworks & Libraries:** React, Flask
+- **Tools:** Git, Vagrant.
+
+
+---
+
+✨ **If you’d like to learn more, feel free to check out my projects or reach out! I'm open to new opportunities and collaborations.**
