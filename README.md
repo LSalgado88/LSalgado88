@@ -8,7 +8,7 @@ Hi! I’m Luis Salgado, a Graduate Student in Computer Science at Prairie View A
 - 🔭 I work at Texas A&M Transportation Institute, aka TTI.
 - 🚀 I’m currently learning Full Stack Development. I previously worked in the identity and access management field.
 - 🌱 I love learning about new technologies, frameworks, programming languages, security, etc.
-- ⚡ Fun fact: I love to play paddle.
+- ⚡ Fun fact: I love to play padel.
 - 💬 Ask me about anything here! I am happy to help.
 - 📫 How to reach me: luis.salgado.lsm@gmail.com.
 
