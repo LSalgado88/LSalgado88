@@ -2,7 +2,7 @@
 
 # Who Am I? 👋
 
-Hi! I’m Luis Salgado, a Graduate Student in Computer Science at Prairie View A&M University.
+Hi! I’m Luis Salgado, a Software Engineer and a Master of Science in Computer Science, graduated from PVAMU.
 
 ### A bit about me:
 - 🔭 I work at Texas A&M Transportation Institute, aka TTI.
